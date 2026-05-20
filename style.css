@@ -1,3 +1,16 @@
 body {
+background-color: ghostwhite
+}
+h2{
+	color:whitesmoke;
+	text-decoration: wavy 5px blue;
 
+}
+img {
+	width:356px;
+	border:15px dotted #FF0000;
+	border-radius:50%
+}
+img:hover {
+	border: 25px dashed black
 }
