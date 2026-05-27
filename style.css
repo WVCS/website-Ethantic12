@@ -1,3 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
 body {
 background-color: ghostwhite
 }
@@ -8,7 +10,7 @@ h2{
 }
 img {
 	width:356px;
-	border:15px dotted #FF0000;
+	border:15px dotted blue;
 	border-radius:50%
 }
 img:hover {
